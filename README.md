@@ -1,2 +1,2 @@
 # hacknc2019
-HackNC 2019 (Hackthon at UNC-Chapel Hill)
+HackNC 2019 (Hackathon at UNC-Chapel Hill)
